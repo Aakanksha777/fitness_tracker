@@ -1,0 +1,14 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 2em;
+    border-bottom: 2px solid forestgreen;
+}
+.links-container {
+    display: flex;
+    gap: 10px;
+    margin-inline: auto;
+}
+.links {
+    text-decoration: none;  
+}
